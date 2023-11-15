@@ -5,6 +5,8 @@
              x:Class="MauiApp2.MainPage">
 
     <ScrollView>
+        <!-- Copied This from readme file WITHOUT any changes-->
+        <!-- Readme file must be changed becuase this is not valid example -->
         <xctk:Chart x:Name="MyChart"
             Grid.Row="1">
             <xctk:Chart.HorizontalAxis>
